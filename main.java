@@ -1,5 +1,6 @@
 package bukkit.plugin;
 
+import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class main extends JavaPlugin {
